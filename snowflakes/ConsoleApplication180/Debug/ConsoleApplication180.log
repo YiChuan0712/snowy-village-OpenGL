@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project17.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ConsoleApplication180.cpp
+c:\users\yichuan\desktop\21180210张一川三维平时作业代码\consoleapplication180\consoleapplication180.cpp(1): warning C4005: “NDEBUG”: 宏重定义
+  c:\users\yichuan\desktop\21180210张一川三维平时作业代码\consoleapplication180\consoleapplication180.cpp: note: 参见“NDEBUG”的前一个定义
+  ConsoleApplication180.vcxproj -> C:\Users\Yichuan\Desktop\21180210张一川三维平时作业代码\Debug\ConsoleApplication180.exe

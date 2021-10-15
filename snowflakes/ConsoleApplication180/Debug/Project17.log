@@ -1,0 +1,39 @@
+﻿  main.cpp
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(1): warning C4005: “NDEBUG”: 宏重定义
+  d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp: note: 参见“NDEBUG”的前一个定义
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(55): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(57): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(59): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(63): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(65): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(67): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(69): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(73): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(75): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(77): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(79): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(84): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(86): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(88): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(90): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(94): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(95): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(97): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(99): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(110): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(125): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(126): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(193): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(193): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(216): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(216): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(249): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(249): warning C4244: “初始化”: 从“double”转换到“const GLfloat”，可能丢失数据
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(371): warning C4305: “初始化”: 从“double”到“float”截断
+d:\桌面\snow-scene-demo-master\snow-scene-demo-master\project17\main.cpp(1042): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project17.vcxproj -> D:\桌面\Snow-Scene-Demo-master\Snow-Scene-Demo-master\Debug\Project17.exe
