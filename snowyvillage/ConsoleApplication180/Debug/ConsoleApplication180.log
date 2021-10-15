@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project17.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  collision.cpp
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(26): warning C4101: “y”: 未引用的局部变量
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(26): warning C4101: “x”: 未引用的局部变量
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(78): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\大三下\snowyvillage\consoleapplication180\collision.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  texture.cpp
+  正在生成代码...
+  ConsoleApplication180.cpp
+d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp(1): warning C4005: “NDEBUG”: 宏重定义
+  d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp: note: 参见“NDEBUG”的前一个定义
+d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp(14): warning C4068: 未知的杂注
+d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp(2463): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp(2495): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp(2534): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+d:\大三下\snowyvillage\consoleapplication180\consoleapplication180.cpp(2576): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  ConsoleApplication180.vcxproj -> D:\大三下\snowyvillage\Debug\ConsoleApplication180.exe
