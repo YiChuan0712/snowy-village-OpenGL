@@ -1,3 +1,3 @@
 # snowy-village-OpenGL
 homework with my friend, summer 2021
-../screenshot.png
+![image](https://github.com/YiChuan0712/snowy-village-OpenGL/blob/main/screenshot.png)
